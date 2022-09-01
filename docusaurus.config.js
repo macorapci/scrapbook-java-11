@@ -62,7 +62,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'welcome',
+            docId: 'welcome-page-id',
             position: 'left',
             label: 'Tutorial',
           },

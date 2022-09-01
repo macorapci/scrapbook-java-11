@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+id: compile-java-page-id
+title: Compile Java
 ---
 
 # Compile Java

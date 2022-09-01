@@ -1,12 +1,12 @@
 ---
-sidebar_position: 3
+id: connect-to-database-page-id
 ---
 
 # Connect To Database
 
 ## Set up database
 
-You have to install `.jar` of which database to connect. If you are not using maven or something like that, you have to give `-cp` param to `java` command.
+You have to install `.jar` of which database to connect. If you are not using maven or something like that, you have to give `-cp` param to `java` command. Otherwise you will get error that looks like **"SQLException: No suitable driver found...."**.
 
 ## Creating JDBC URL
 
@@ -26,7 +26,7 @@ Every database vendor have their own default values. For example, if we won't se
 
 ## Get Connection in Java
 
-```` java 
+````java 
 // https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html
 
 public Connection getConnection() throws SQLException {
@@ -61,3 +61,6 @@ Get Connection from `DataSource` instead of `DriverManager`. `DataSource` has mo
 
 :::
 
+### Get Connection with username and password
+
+You can check [DriverManager.getConnection](https://docs.oracle.com/javase/8/docs/api/java/sql/DriverManager.html#getConnection-java.lang.String-java.lang.String-java.lang.String-) for a few overload exist for `DriverManager`.

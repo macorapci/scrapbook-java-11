@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/welcome">
+            to="/docs/welcome-page-id">
             Scrapbook For Java 11
           </Link>
         </div>

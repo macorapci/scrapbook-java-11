@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+id: basic-database-notes-page-id
 ---
 
 # Basic Database Notes

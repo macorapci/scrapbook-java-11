@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+id: import-naming-conflict-page-id
+title: Import Naming Conflict
 ---
 
 # Import Naming Conflict

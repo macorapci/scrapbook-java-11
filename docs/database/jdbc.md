@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+id: jdbc-page-id
 ---
 
 # JDBC (Java Database Connectivity)

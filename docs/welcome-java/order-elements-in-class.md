@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2
+id: order-elements-in-class-page-id
+title: Order Elements In Class
 ---
 
 # Order Elements In Class
