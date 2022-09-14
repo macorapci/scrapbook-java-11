@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscrapbook_java_11=self.webpackChunkscrapbook_java_11||[]).push([[40],{1003:a=>{a.exports=JSON.parse('{"permalink":"/scrapbook-java-11/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

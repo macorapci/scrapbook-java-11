@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscrapbook_java_11=self.webpackChunkscrapbook_java_11||[]).push([[278],{5870:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/scrapbook-java-11/blog/tags/facebook","allTagsPath":"/scrapbook-java-11/blog/tags","count":1}')}}]);
