@@ -32,6 +32,16 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Annotation',
+      collapsed: false,
+      items: [
+        'annotations/annotations-basics-page-id',
+        'annotations/annotations-limiting-page-id',
+        'annotations/common-annotations-page-id',
+      ]
+    },
+    {
+      type: 'category',
       label: 'Database',
       collapsed: false,
       items: [
