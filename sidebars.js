@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Welcome Java',
-      collapsed: false,
+      collapsed: true,
       items: [
         'welcome-java/compile-java-page-id',
         'welcome-java/import-naming-conflict-page-id',
@@ -33,7 +33,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Annotation',
-      collapsed: false,
+      collapsed: true,
       items: [
         'annotations/annotations-basics-page-id',
         'annotations/annotations-limiting-page-id',
@@ -43,12 +43,21 @@ const sidebars = {
     {
       type: 'category',
       label: 'Database',
-      collapsed: false,
+      collapsed: true,
       items: [
         'database/basic-database-notes-page-id',
         'database/jdbc-page-id',
         'database/connect-to-database-page-id',
         'database/statement-page-id',
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Notes',
+      collapsed: false,
+      items: [
+        'notes/chapter-001-id',
+        'notes/chapter-002-id',
       ]
     }
   ],
