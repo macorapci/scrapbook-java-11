@@ -31,9 +31,9 @@ b = a * b; // Does not compile!
 b *= a;    // Compie!
 ````
 
-::::note
+:::note
 Compound assignment operations will cast type automaticly.
-::::
+:::
 
 ### Assignment Operations Return Value
 
