@@ -87,8 +87,9 @@ System.out.println(null instanceof null); // Does not compile!
 
 ### Short-ciruit
 
-& -> &&
-| -> ||
+Operator  | Short-ciruit  | 
+&         | &&            |
+\|        | \|\|          |
 
 ### Exclusive Or
 `^` means `exclusive or`. 
