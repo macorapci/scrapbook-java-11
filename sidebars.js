@@ -58,6 +58,7 @@ const sidebars = {
       items: [
         'notes/chapter-001-id',
         'notes/chapter-002-id',
+        'notes/chapter-003-id',
       ]
     }
   ],

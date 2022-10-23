@@ -202,7 +202,7 @@ public class Foo {
 		var two = new Foo(); // *2
 
 		one.bar(two);
-		two = null; // GC can collect *2 because *2 object accessable in one.foo
+		two = null; // GC CAN NOT collect *2 because *2 object accessable in one.foo
 		one = null; // GC can collect *1 (one) and *2 (one.foo) object 
 	}
 }
