@@ -208,7 +208,7 @@ if (value) {
 }
 ````
 
-## Focus!
+## Notes
 
 ### Nested If Statement without block
 

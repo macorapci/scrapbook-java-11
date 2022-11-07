@@ -56,10 +56,12 @@ const sidebars = {
       label: 'Notes',
       collapsed: false,
       items: [
+        'notes/chapter-000-id',
         'notes/chapter-001-id',
         'notes/chapter-002-id',
         'notes/chapter-003-id',
         'notes/chapter-004-id',
+        'notes/chapter-005-id',
       ]
     }
   ],
